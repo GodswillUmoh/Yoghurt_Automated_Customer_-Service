@@ -71,6 +71,10 @@ Looker Studio Dashboard
 ## Visual Representation in n8n: The workflow
 <img width="1220" height="660" alt="Screenshot (744)" src="https://github.com/user-attachments/assets/983a16c2-e645-41ad-bbc1-be48a07a643e" />
 
+---
+## Trello Ticket Visual
+
+
 
 ## Technologies Used
 
