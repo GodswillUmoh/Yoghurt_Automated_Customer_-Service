@@ -1,7 +1,7 @@
 # AI-Powered Yoghurt Customer Service Automation
 To handle customers request on the different flavors of yoghurt
 
-# AI-Powered Yoghurt Customer Service Automation & Centralized Dashboard
+# Yoghurt Customer Service Automation & Centralized Dashboard
 
 ## Overview
 
