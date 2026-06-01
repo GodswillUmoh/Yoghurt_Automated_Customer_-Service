@@ -1,3 +1,4 @@
+<img width="1510" height="1017" alt="Screenshot (745)" src="https://github.com/user-attachments/assets/1cb3c7c2-4a5e-4687-9ee8-5b1b1f2e7691" />
 # AI-Powered Yoghurt Customer Service Automation
 To handle customers request on the different flavors of yoghurt
 
@@ -73,6 +74,7 @@ Looker Studio Dashboard
 
 ---
 ## Trello Ticket Visual
+<img width="1510" height="1017" alt="Screenshot (745)" src="https://github.com/user-attachments/assets/8abe5878-2833-4351-a611-07185bd57be5" />
 
 
 
